@@ -1,0 +1,21 @@
+table,th,td{
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    border-collapse:collapse;
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+   width: auto;
+   height: auto;
+    padding: 50px;
+    border: 2px solid green;
+    display: inline-flex;
+    align-content: center;
+    justify-content: center;
+    
+}
